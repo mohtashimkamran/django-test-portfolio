@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.bg-company-custom {
+    background-color: 	rgb(8,8,8) !important;
+}
+
+#card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
